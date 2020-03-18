@@ -257,3 +257,4 @@ packages/
 .idea/
 *.sln.iml
 *.orig
+.ionide/symbolCache.db
